@@ -1,1 +1,2 @@
 git 实践
+添加内容for reset
